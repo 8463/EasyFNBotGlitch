@@ -2,14 +2,14 @@
     "Bot Version": "1.2.0",
     "Auto Start": true,
     "Default item search language": "en",
-    "Secret Password": "YOUR_SECRET_PASSWORD",
-    "Account": {
-      "Email": "",
-      "Password": "",
+    "Secret Password": "846588ed09ec8b9e89776ba87521ca342058f26779cbb46e36034eb3724e1474",
+    "Account": {1.UseCodeSnipz
+      "Email": "846588ed09ec8b9e89776ba87521ca342058f26779cbb46e36034eb3724e1474",
+      "Password": "Fortnite1",
       "Sub Accounts": {}
     },
     "Control": {
-      "Give full access to": "",
+      "Give full access to": "IDontHitSnipz",
       "Public Bot": true
     },
     "Party": {
@@ -17,20 +17,21 @@
       "Cosmetics": {
         "Banner": {
           "Banner Color": "defaultcolor15",
-          "Banner Name": "OtherBanner28",
+          "Banner Name": "EpicGames",
           "Season Level": 1000
         },
         "Skin": "Ghoul Trooper",
-        "Skin Variants": [],
-        "Backpack": "",
-        "Backpack Variants":[],
+        "Skin Variants": [pink],
+        "Backpack": "Ghost Portal",
+        "Backpack Variants":[Purple],
         "Pet": "",
         "Pet Variants":[],
-        "Pickaxe": "",
-        "Emote": "True Heart",
+        "Pickaxe": "Raider's Revenge",
+        "Emote": "Scenario",
         "Emoji": ""
       },
       "Privacy": "Public",
-      "Platform": "Playstation"
+      "Platform": "PC
+       "
     }
   }
